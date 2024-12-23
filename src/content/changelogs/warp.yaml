@@ -12,7 +12,7 @@ entries:
 
       Changes and improvements:
         - Added support for per-app VPN configuration.
-        - Fixed issue where some users could not connect unless they rotated their keys after update.
+        - Fixed issue where some users could not connect unless they rotated their keys after an update.
         - Fixed a potential crash when connecting to the tunnel.
 
   - publish_date: "2024-12-19"
